@@ -1,0 +1,40 @@
+1)Aramex_Sample : 
+magick all_images/Aramex_Sample.jpg -fill black -fuzz 20% +opaque #d0bc40 converted/op1.jpg
+python ocr.py op1.jpg
+
+2)Aramex2_Sample.jpg : 
+magick all_images/Aramex2_Sample.jpg -fill black -fuzz 20% +opaque #f4f4f4 converted/op2.jpg
+python ocr.py op2.jpg
+
+3)BD_Sample_Image.jpg:
+magick all_images/BD_Sample_Image.jpg -fill black -fuzz 20% +opaque #d0bc40 converted/op3.jpg
+python ocr.py op3.jpg
+
+4)Delhivery_Reverse_Sample_Image.jpeg
+magick all_images/Delhivery_Reverse_Sample_Image.jpeg -fill black -fuzz 15% +opaque #d0bc40 converted/op4.jpg
+python ocr.py op4.jpg
+
+5)Delhivery_Sample_Image.jpeg
+magick all_images/Delhivery_Sample_Image.jpeg -fill black -fuzz 13% +opaque #d0bc40 converted/op5.jpg
+python ocr.py op5.jpg
+
+6)Delhivery_Surface_Sample_Image.jpeg
+magick all_images/Delhivery_Surface_Sample_Image.jpeg -fill black -fuzz 15% +opaque #d0bc40 converted/op6.jpg
+python ocr.py op6.jpg
+
+7)Ecom_Express_Reverse_Sample_Image.jpeg
+magick all_images/Ecom_Express_Reverse_Sample_Image.jpeg -fill black -fuzz 15% +opaque #d0bc40 converted/op7.jpg
+python ocr.py op7.jpg
+
+8)Ecom_Express_ROS_Reverse_Sample_Image.jpeg
+magick all_images/Ecom_Express_ROS_Reverse_Sample_Image.jpeg -fill black -fuzz 15% +opaque #d0bc40 converted/op8.jpg
+python ocr.py op8.jpg
+
+9)Ecom_Express_Surface_2kg_Sample_Image.jpeg
+magick all_images/Ecom_Express_Surface_2kg_Sample_Image.jpeg -fill black -fuzz 15% +opaque #d0bc40 converted/op9.jpg
+python ocr.py op9.jpg
+
+10)XB.jpg 
+magick all_images/XB.jpg -fill black -fuzz 15% +opaque #d0bc40 converted/op10.jpg
+python ocr.py op10.jpg
+
