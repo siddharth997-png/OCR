@@ -3,7 +3,7 @@ magick all_images/Aramex_Sample.jpg -fill black -fuzz 20% +opaque #d0bc40 conver
 python ocr.py op1.jpg
 
 2)Aramex2_Sample.jpg : 
-magick all_images/Aramex2_Sample.jpg -fill black -fuzz 20% +opaque #f4f4f4 converted/op2.jpg
+magick all_images/Aramex2_Sample.jpg -fill black -fuzz 17% +opaque #f4f4f4 converted/op2.jpg
 python ocr.py op2.jpg
 
 3)BD_Sample_Image.jpg:
