@@ -14,10 +14,9 @@ To run this project locally, first you need to have python, pip and tesseract in
 
 Links : 
 
-    1. [Python]
-    2. (https://www.python.org/downloads/)
-    3. [Pip](https://pypi.org/project/pip/)
-    4. [Tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html)
+- [Python](https://www.python.org/downloads/)
+- [Pip](https://pypi.org/project/pip/)
+- [Tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html)
   
 
 
